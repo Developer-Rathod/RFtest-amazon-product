@@ -1,6 +1,6 @@
 *** Variables ***
 ${URL}            https://www.amazon.co.uk/
-${BROWSER}        chrome
+${BROWSER}        edge
 ${SearchWord}     ferrari 458
 ${PageContains}    Your Amazon.co.uk
 ${ListContains}    results for "ferrari 458"
